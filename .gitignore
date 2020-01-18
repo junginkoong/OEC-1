@@ -10,3 +10,13 @@ Makefile
 *.c
 *.cpp
 *.properties
+.codelite/.tern-port
+.codelite/.tern-project
+.codelite/compilation.db
+.codelite/OEC.tags
+.codelite/refactoring.db
+src/oec/oec.project
+src/oec.project
+src/oec.txt
+OEC.workspace
+*.csv
